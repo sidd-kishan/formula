@@ -27,7 +27,7 @@ $
 
 https://github.com/user-attachments/assets/b7a24c7d-04c7-4015-8664-782095279b02
 
-
+*Disclaimer: Assistance from Cursor was also used in this port 
 
 The model is provided by [https://github.com/Max-Kawula/penger-obj](https://github.com/Max-Kawula/penger-obj)
 
